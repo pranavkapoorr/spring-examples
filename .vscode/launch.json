@@ -4,6 +4,12 @@
             "type": "java",
             "name": "CodeLens (Launch) - SpringSecurityApplication",
             "request": "launch",
+            "mainClass": "com.pranavkapoorr.mysecurity.SpringSecurityApplication"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SpringSecurityApplication",
+            "request": "launch",
             "mainClass": "com.pranavkapoorr.mysecurity.SpringSecurityApplication",
             "projectName": "spring-security"
         }
